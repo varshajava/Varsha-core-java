@@ -1,4 +1,4 @@
-package For_loop;
+package for_loop;
 
 public class Table5Assignment {
     public static void main(String[] args) {

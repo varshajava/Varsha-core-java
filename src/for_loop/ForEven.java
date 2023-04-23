@@ -1,18 +1,17 @@
-package For_loop;
+package for_loop;
 
-public class ForOdd {
+public class ForEven {
 
     public static void main(String[] args) {
 
-        System.out.print("Odd Numbers are : ");
+        System.out.println("Even numbers are : ");
 
-        for(int a=50;a<=100;a++)
+        for(int a=1;a<=50;a++)
         {
-            if(a%2!=0)
+            if(a%2==0)
             {
                 System.out.print(a+" ");
             }
         }
-
     }
 }

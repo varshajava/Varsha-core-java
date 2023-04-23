@@ -1,4 +1,4 @@
-package For_loop;
+package for_loop;
 
 public class DemoLoop {
     public static void main(String[] args) {
