@@ -1,4 +1,4 @@
-package dowhile_loop;
+package loop.for_loop.dowhile_loop;
 
 public class DoWhile1 {
 

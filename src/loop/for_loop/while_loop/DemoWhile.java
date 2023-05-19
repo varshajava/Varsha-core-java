@@ -1,4 +1,4 @@
-package while_loop;
+package loop.for_loop.while_loop;
 
 public class DemoWhile {
 
