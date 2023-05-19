@@ -12,7 +12,7 @@ public class SwitchDayConti {
                 System.out.println("monday");
                 break;
             case 2:
-                System.out.println("tueday");
+                System.out.println("tuesday");
                 break;
             case 3:
                 System.out.println("wednesday");
