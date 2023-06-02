@@ -6,7 +6,7 @@ public class Book {
     int pages;
     String writerName;
 
- // TODO access specifier  returnType MethodName(){code}
+ // TODO access specifier  returnType MethodName(parameter){code}
     public void readMethod()
     {
         System.out.println("This is read method...");
