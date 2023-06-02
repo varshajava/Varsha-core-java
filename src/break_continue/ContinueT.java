@@ -1,6 +1,6 @@
 package break_continue;
 
-public class BreakT {
+public class ContinueT {
 
     public static void main(String[] args) {
 
